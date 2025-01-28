@@ -4,28 +4,15 @@ Proyecto de mascotas Happy Paws
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 
- Índice
 
--[Índice](#índice)
-
--[Install](#Install)
-
--[Frontend](#FRONTEND)
-
--[Backend](#BACKEND)
-
--[Herramientas](#Herramientas)
-
-
-
-#Install
+Install
 -bun
 -tailwind
 -vite con vue
 -laravel
 
 
-#FRONTEND:
+FRONTEND:
 
 -Bun:
 <pre>
@@ -36,14 +23,16 @@ curl -fsSL https://bun.sh/install | bash
 
 
 -Tailwind:
+
 Instalar 
+
 <pre>
 <code>
 npm install tailwindcss @tailwindcss/vite
 </code>
 </pre>
 
-```vue
+```javascript
 esto es en vite.config.js
 
 import { defineConfig } from 'vite'
@@ -96,18 +85,18 @@ $ bun create vite
 </code>
 </pre>
 
-
-
-
-#BACKEND:
+BACKEND:
 
 -Laravel:
 
+Crear proyecto 
 <pre>
 <code>
 laravel new example-app
 </code>
 </pre>
+
+Luego de creado dirigirce a la carpeta e inicializarlo 
 
 <pre>
 <code>
@@ -117,7 +106,7 @@ composer run dev
 </code>
 </pre>
 
-#Herramientas:
+Herramientas:
 
 -Git
 -GitHub

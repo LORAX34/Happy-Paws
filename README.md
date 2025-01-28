@@ -10,11 +10,11 @@ Proyecto de mascotas Happy Paws
 
 -[Install](#Install)
 
--[Frontend](#FRONTEND:)
+-[Frontend](#FRONTEND)
 
--[Backend](#BACKEND:)
+-[Backend](#BACKEND)
 
--[Herramientas](#Herramientas:)
+-[Herramientas](#Herramientas)
 
 
 

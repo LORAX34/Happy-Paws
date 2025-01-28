@@ -28,10 +28,12 @@ Proyecto de mascotas Happy Paws
 #FRONTEND:
 
 -Bun:
-
-\`\`\`sh
+<pre>
+<code>
 curl -fsSL https://bun.sh/install | bash
-\`\`\`
+</code>
+</pre>
+
 
 -Tailwind:
 //Primero esto

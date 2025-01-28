@@ -1,20 +1,37 @@
-<em> # Happy-Paws </em>
+# Happy-Paws 
 Proyecto de mascotas Happy Paws 
+ 
  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-#**Install**:
+
+ ##Índice
+
+*[Índice](#índice)
+
+*[Install](#Install)
+
+*[Frontend](#FRONTEND:)
+
+*[Backend](#BACKEND:)
+
+*[Herramientas](#Herramientas:)
+
+
+
+#Install
 -bun
 -tailwind
 -vite con vue
 -laravel
-________________________________________________
+
 
 #FRONTEND:
 
 -Bun:
-//install
-curl -fsSL https://bun.sh/install | bash
 
+\`\`\`sh
+curl -fsSL https://bun.sh/install | bash
+\`\`\`
 
 -Tailwind:
 //Primero esto
@@ -64,7 +81,7 @@ Asegúrese de que su CSS compilado esté incluido en el <head> (su marco podría
 
 $ bun create vite
 
-________________________________________________
+
 
 #BACKEND:
 
@@ -79,7 +96,7 @@ cd example-app
 npm install && npm run build
 composer run dev
 
-______________________________________________
+
 
 #Herramientas:
 
